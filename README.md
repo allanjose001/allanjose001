@@ -6,7 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=allanjose001&show_icons=true&count_private=true&theme=dark&locale=en&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=allanjose001&locale=en&layout=compact&card_width=320&langs_count=5&theme=dark&order=2" height="150" alt="languages graph"  />
 </div>
-
+<div>
+  
+</div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-jose-marinho-0b249b2a3/)
 <div align="center" dir="auto">
   <a href="https://www.linkedin.com/in/allan-jose-marinho-0b249b2a3/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
